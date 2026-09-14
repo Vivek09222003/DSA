@@ -19,7 +19,7 @@ class Solution {
             num = num * (-1);
         }
 
-        if(num<(-1)*(long)Math.pow(2,31) || num>(long)Math.pow(2,31)+1)
+        if(num<Integer.MIN_VALUE || num>Integer.MAX_VALUE)
             return 0;
 
         return (int)num;
