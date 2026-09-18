@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Vivek09222003/DSA/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/Vivek09222003/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Vivek09222003/DSA/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/Vivek09222003/DSA/tree/master/0836-rectangle-overlap) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vivek09222003/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Vivek09222003/DSA/tree/master/0010-regular-expression-matching) |
+| [0050-powx-n](https://github.com/Vivek09222003/DSA/tree/master/0050-powx-n) |
 ## Greedy
 |  |
 | ------- |
