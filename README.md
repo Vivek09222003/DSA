@@ -35,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Vivek09222003/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Vivek09222003/DSA/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/Vivek09222003/DSA/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Vivek09222003/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vivek09222003/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Geometry
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Vivek09222003/DSA/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Vivek09222003/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Two Pointers
 |  |
 | ------- |
