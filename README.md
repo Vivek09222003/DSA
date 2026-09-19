@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Vivek09222003/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Vivek09222003/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Vivek09222003/DSA/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/Vivek09222003/DSA/tree/master/0326-power-of-three) |
 | [0836-rectangle-overlap](https://github.com/Vivek09222003/DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Vivek09222003/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vivek09222003/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Vivek09222003/DSA/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/Vivek09222003/DSA/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/Vivek09222003/DSA/tree/master/0326-power-of-three) |
 ## Greedy
 |  |
 | ------- |
