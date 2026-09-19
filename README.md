@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0495-teemo-attacking](https://github.com/Vivek09222003/DSA/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Vivek09222003/DSA/tree/master/0496-next-greater-element-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vivek09222003/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vivek09222003/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivek09222003/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/Vivek09222003/DSA/tree/master/0496-next-greater-element-i) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vivek09222003/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vivek09222003/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Vivek09222003/DSA/tree/master/0067-add-binary) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vivek09222003/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
 | ------- |
@@ -100,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Vivek09222003/DSA/tree/master/0069-sqrtx) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vivek09222003/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vivek09222003/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
