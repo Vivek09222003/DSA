@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivek09222003/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Vivek09222003/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Vivek09222003/DSA/tree/master/0013-roman-to-integer) |
 | [0496-next-greater-element-i](https://github.com/Vivek09222003/DSA/tree/master/0496-next-greater-element-i) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vivek09222003/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vivek09222003/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Vivek09222003/DSA/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Vivek09222003/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Vivek09222003/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Vivek09222003/DSA/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Vivek09222003/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Vivek09222003/DSA/tree/master/0069-sqrtx) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Vivek09222003/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Vivek09222003/DSA/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Vivek09222003/DSA/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Vivek09222003/DSA/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Vivek09222003/DSA/tree/master/0067-add-binary) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vivek09222003/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Vivek09222003/DSA/tree/master/3498-reverse-degree-of-a-string) |
