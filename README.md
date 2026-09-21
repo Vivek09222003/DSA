@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Vivek09222003/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0495-teemo-attacking](https://github.com/Vivek09222003/DSA/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Vivek09222003/DSA/tree/master/0496-next-greater-element-i) |
 | [3524-find-x-value-of-array-i](https://github.com/Vivek09222003/DSA/tree/master/3524-find-x-value-of-array-i) |
@@ -122,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vivek09222003/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Vivek09222003/DSA/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Vivek09222003/DSA/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
