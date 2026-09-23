@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Vivek09222003/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0495-teemo-attacking](https://github.com/Vivek09222003/DSA/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Vivek09222003/DSA/tree/master/0496-next-greater-element-i) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivek09222003/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3524-find-x-value-of-array-i](https://github.com/Vivek09222003/DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vivek09222003/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vivek09222003/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vivek09222003/DSA/tree/master/0013-roman-to-integer) |
 | [0496-next-greater-element-i](https://github.com/Vivek09222003/DSA/tree/master/0496-next-greater-element-i) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vivek09222003/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivek09222003/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vivek09222003/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivek09222003/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivek09222003/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Memoization
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Vivek09222003/DSA/tree/master/0069-sqrtx) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivek09222003/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Newton's Method
 |  |
 | ------- |
@@ -131,4 +135,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Vivek09222003/DSA/tree/master/0303-range-sum-query-immutable) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivek09222003/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
