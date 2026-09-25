@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Vivek09222003/DSA/tree/master/0118-pascals-triangle) |
 | [0303-range-sum-query-immutable](https://github.com/Vivek09222003/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0495-teemo-attacking](https://github.com/Vivek09222003/DSA/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Vivek09222003/DSA/tree/master/0496-next-greater-element-i) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Vivek09222003/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Vivek09222003/DSA/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/Vivek09222003/DSA/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Vivek09222003/DSA/tree/master/0118-pascals-triangle) |
 | [3524-find-x-value-of-array-i](https://github.com/Vivek09222003/DSA/tree/master/3524-find-x-value-of-array-i) |
 ## Manacher
 |  |
