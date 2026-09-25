@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Vivek09222003/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vivek09222003/DSA/tree/master/0013-roman-to-integer) |
 | [0496-next-greater-element-i](https://github.com/Vivek09222003/DSA/tree/master/0496-next-greater-element-i) |
+| [1096-brace-expansion-ii](https://github.com/Vivek09222003/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vivek09222003/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivek09222003/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vivek09222003/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Vivek09222003/DSA/tree/master/0496-next-greater-element-i) |
+| [1096-brace-expansion-ii](https://github.com/Vivek09222003/DSA/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Vivek09222003/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vivek09222003/DSA/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Vivek09222003/DSA/tree/master/0067-add-binary) |
+| [1096-brace-expansion-ii](https://github.com/Vivek09222003/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vivek09222003/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Vivek09222003/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Vivek09222003/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vivek09222003/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Bit Manipulation
 |  |
@@ -124,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Vivek09222003/DSA/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Vivek09222003/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -138,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Vivek09222003/DSA/tree/master/0303-range-sum-query-immutable) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vivek09222003/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Vivek09222003/DSA/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
